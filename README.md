@@ -1,8 +1,5 @@
-سدين ايمن احمد لبابنه - Name = Sadeen Ayman Ahmad Lababneh
-Id= 202411122
-
-
-
-homework2-
-
-
+# -----------------------------------------
+# Name: Sadeen Ayman Ahmad Lababneh
+# Student ID: 202411122
+# Assignment: Homework 2 - NumPy
+# -----------------------------------------
