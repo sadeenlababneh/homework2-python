@@ -1,3 +1,8 @@
-سدين ايمن احمد لبابنه - Sadeen Ayman Ahmad Lababneh
-202411122
-homework2-python
+سدين ايمن احمد لبابنه - Name = Sadeen Ayman Ahmad Lababneh
+Id= 202411122
+
+
+
+homework2-
+
+
